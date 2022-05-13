@@ -21,5 +21,5 @@ My name is Jacob Thompson. I am a current student at the tail end of a nine-mont
 * Utilize my knowledge and skills in the career field
 ---
 **Contact**
-* [Email](mailto:admin@cloudhadoop.com "gmail")
-* [LinkedIn](linkedin.com/in/jmthompson-dev "LinkedIn")
+* [Email](mailto:jacobthompson.dev@gmail.com "gmail")
+* [LinkedIn](https://www.linkedin.com/in/jmthompson-dev/ "LinkedIn")
