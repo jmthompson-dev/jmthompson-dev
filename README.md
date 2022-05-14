@@ -12,7 +12,7 @@ My name is Jacob Thompson. I am a current student at the tail end of a nine-mont
 * I enjoy planning and solving difficult algorithms, whether digital or physical. Math is most definitely a hobby of mine, along with scuba diving, visiting the mountains, growing coral in my 200 gallon reef tank, and playing with my border collie, Lucy. 
 
 **Skills** 
-* Java, AWS, Software Design, J Unit, OOP, and Many [More](https://www.linkedin.com/in/jmthompson-dev/details/skills/ "LinkedIn").
+* Java, AWS, Software Design, J Unit, OOP, and [More](https://www.linkedin.com/in/jmthompson-dev/details/skills/ "LinkedIn").
 
 **Goals**
 * Complete the Backend Development Course with Bloom Tech
