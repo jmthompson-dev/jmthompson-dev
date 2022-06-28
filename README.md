@@ -4,21 +4,18 @@
 
 💯 I would say that some of my best traits are being labeled as a forever learner by my peers and naturally owning a task until its completion.
 
-🖥️ My top skills include: 
-</br>
-• Java (Caretto 11, Dagger, Jackson, J Unit, Mockito) 
-</br>
-• AWS (Amplify, Cloudformation, DynamoDB, IAM, Lambda) 
-</br>
-• OOP (Inheritance, Polymorphism, Encapsulation, Abstraction) 
-</br>
+🖥️ My top skills include: </br>
+• Java (Caretto 11, Dagger, Jackson, J Unit, Mockito) </br>
+• AWS (Amplify, Cloudformation, DynamoDB, IAM, Lambda) </br>
+• OOP (Inheritance, Polymorphism, Encapsulation, Abstraction) </br>
+• Spring (Boot, Data JPA, Web, Thymeleaf) <br/>
 • Testing (Integration, Unit) </br>
-• Agile Project Management (Trello, Scrum) 
-</br>
+• Agile Project Management (Trello, Scrum) </br>
 
-🌱Currently learning: 
-</br>
-• Spring (Boot, Web, Thymeleaf)
+🌱 Currently learning: </br>
+• Angular (TypeScript, Components, Templates, Directives)
+
+
 
 Languages and Tools: </br>
 <p align="left">
