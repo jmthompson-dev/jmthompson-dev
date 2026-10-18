@@ -9,7 +9,7 @@ I turn business problems into working software—from requirements and architect
 🚀 What I Do
 
 * Enterprise forward deployment engineering: Partner with stakeholders and engineering teams to understand operational challenges and deliver integrated solutions within enterprise constraints.
-* Full-stack engineering: Build Java and Spring Boot services, APIs, event-driven workflows, data integrations, and user interfaces.
+* Full-stack engineering: Build Java and Spring Boot services, APIs, event-driven workflows, data integrations, and Angular user interfaces.
 * AI engineering: Develop agent-based applications using Google ADK and PydanticAI, connecting models with tools, structured workflows, and external memory.
 * Technical leadership: Lead cross-functional delivery and coordinate work across architecture, development, testing, and security.
 * Scripting and automation: Apply extensive Groovy and Bash experience to automate development workflows, build tooling, operational tasks, and integrations.
